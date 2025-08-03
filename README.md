@@ -1,6 +1,10 @@
 # Gm GM! JJS Here
 A Cairo | Starknet builder, an active contributor on [OnlyDust](onlydust.xyz) and a security researcher. 
 
+I specialise in Cairo, but also love doing some full-stack work.
+
+You can see my work in the pinned repos.
+
 For a deaper understanding of what I have done already, see my pinned repos, or navigate the full list. For my presance on other platforms see the links below!
 
 [![YouTube](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/bb4634715f95ebb209b4e0bcdd4d2d98fe64c64c/youtube-compact.svg)](https://www.youtube.com/@jjsonchain)
