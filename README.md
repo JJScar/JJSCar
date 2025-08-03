@@ -1,7 +1,5 @@
 # Gm GM! JJS Here
-A Cairo | Starknet builder, an active contributor on [OnlyDust](onlydust.xyz) and a security researcher. 
-
-I specialise in Cairo, but also love doing some full-stack work.
+A web3 bulder, Ethereum | Cairo/Starknet | Rust | builder, an active contributor on [OnlyDust](onlydust.xyz) and a security researcher. 
 
 You can see my work in the pinned repos.
 
