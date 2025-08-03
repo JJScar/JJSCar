@@ -1,7 +1,5 @@
 # Gm GM! JJS Here
-A Web3 builder and security researcher, an active contributor on [OnlyDust](onlydust.xyz) and active participant on [Cantina](cantina.xyz), [CodeHawks](https://codehawks.cyfrin.io/) and [Code4rena](https://code4rena.com/). 
-
-I am passiante about becoming an undeniable individual in this space, with an emphasis on helping others! This means creating educational content and inspiring others to change their life, as the industry has done to me. 
+A Cairo | Starknet builder, an active contributor on [OnlyDust](onlydust.xyz) and a security researcher. 
 
 For a deaper understanding of what I have done already, see my pinned repos, or navigate the full list. For my presance on other platforms see the links below!
 
