@@ -1,4 +1,4 @@
-# gmgn! JJS Here
+# Gm Gn! JJS Here
 A web3 builder and security researcher. I am a generalist. I love to be handed a task and then go about solving the issue. 
 
 You can see some of my work that involves my security findings on public web3 security contests, data engineering work and fullstack development. 
