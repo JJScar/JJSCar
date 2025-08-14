@@ -1,7 +1,5 @@
-# Gm Gn! JJS Here
-A web3 builder and security researcher. I am a generalist. I love to be handed a task and then go about solving the issue. 
-
-You can see some of my work that involves my security findings on public web3 security contests, data engineering work and fullstack development. 
+# Gm Gn!
+My name is Jordan and I am Data Engineer. I also do development and security reviews for blockchain protocols. Love learning new tech and tinker with it!
 
 For a deaper understanding of what I have done already, see my pinned repos, or navigate the full list. For my presance on other platforms see the links below!
 
