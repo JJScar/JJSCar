@@ -1,4 +1,4 @@
-# Gm Gn!
+# gm gm!
 My name is Jordan and I am Data Engineer. I also do development and security reviews for blockchain protocols. Love learning new tech and tinker with it!
 
 For a deaper understanding of what I have done already, see my pinned repos, or navigate the full list. For my presance on other platforms see the links below!
