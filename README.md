@@ -1,5 +1,5 @@
 # gm gm!
-My name is Jordan and I am a Crypto Security Researcher and Investigator. I enjoy findings bugs on live code and investigating the blockchain for illicit actions. 
+I am JJS (OnChain) a web3 security researcher. I enjoy findings bugs on pre-launched/live code. DM for audits.
 
 You can say that the blockchain is my home. For more please visit links below!
 
